@@ -40,5 +40,5 @@ jobs:
             echo "✅ No changes to commit."
           else
             git commit -m "🔄 Auto update tools.json [CI]"
-            git push https://x-access-token:${{secrets.GITHUB_TOKEN}}@github.com/${{ github.repository }}.git HEAD:main
+            git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           fi
