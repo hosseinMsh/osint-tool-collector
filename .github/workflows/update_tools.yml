@@ -1,4 +1,6 @@
 name: OSINT Tool Collector Auto Update
+permissions:
+  contents: write
 
 on:
   push:
@@ -40,7 +42,6 @@ jobs:
 
       - name: ✅ Commit & Push If Changed
         run: |
-          # Stage the updated file(s)
           git add data/tools.json
           # Check if there are any staged changes
           if git diff --cached --quiet; then
