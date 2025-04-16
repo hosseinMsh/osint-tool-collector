@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"  # Runs daily at 03:00 UTC
 
 jobs:
   update-osint-tools:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: 📥 Clone repository
         uses: actions/checkout@v3
+        with:
+          ref: main  # Ensure you're on the main branch
 
       - name: 🐍 Set up Python
         uses: actions/setup-python@v4
@@ -28,6 +30,9 @@ jobs:
       - name: ⚙️ Run OSINT collector
         run: python osint_collector/main.py
 
+      - name: 🔍 List Git remotes
+        run: git remote -v
+
       - name: 🔐 Configure Git
         run: |
           git config user.name "github-actions[bot]"
@@ -35,10 +40,15 @@ jobs:
 
       - name: ✅ Commit & Push If Changed
         run: |
+          # Stage the updated file(s)
           git add data/tools.json
+          # Check if there are any staged changes
           if git diff --cached --quiet; then
             echo "✅ No changes to commit."
           else
+            # Commit changes with a meaningful message
             git commit -m "🔄 Auto update tools.json [CI]"
-            git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+            # Push using verbose mode for more detailed output
+            git push --verbose https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           fi
+
