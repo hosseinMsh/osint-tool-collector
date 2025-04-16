@@ -41,3 +41,4 @@ jobs:
           else
             git commit -m "🔄 Auto update tools.json [CI]"
             git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          fi
