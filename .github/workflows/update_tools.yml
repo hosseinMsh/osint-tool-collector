@@ -28,7 +28,7 @@ jobs:
       - name: ⚙️ Run OSINT collector
         run: python osint_collector/main.py
 
-      - name: 📤 Commit and push changes
+      - name: Commit and Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -37,5 +37,5 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "🔄 Auto update tools.json [CI]"
-            git push
+            git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           fi
