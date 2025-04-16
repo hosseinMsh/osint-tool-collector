@@ -1,0 +1,38 @@
+name: Update OSINT Tools
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # هر روز در ساعت 00:00 (نصف شب) به وقت UTC اجرا می‌شود.
+  workflow_dispatch:  # این اجازه را می‌دهد که به‌صورت دستی هم بتوانید workflow را اجرا کنید.
+
+jobs:
+  update-tools:
+    runs-on: ubuntu-latest  # این عمل در محیط Ubuntu اجرا می‌شود.
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3  # کد شما را از مخزن دانلود می‌کند.
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'  # نسخه پایتون که شما در پروژه استفاده می‌کنید.
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # اگر نیاز به نصب کتابخانه‌ها دارید.
+
+      - name: Run script to collect tools
+        run: |
+          python your_script.py  # نام اسکریپت پایتون خود را اینجا وارد کنید (مثلاً main.py).
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add data/tools.json
+          git commit -m "Update OSINT tools"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # این توکن به‌طور خودکار از GitHub ارسال می‌شود.
