@@ -294,6 +294,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Browserleaks",
+    "url": "https://browserleaks.com/",
+    "description": "BrowserLeaks tests your browser for privacy and fingerprinting leaks",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Cisco Talos Intelligence",
     "url": "https://talosintelligence.com/reputation_center",
     "description": "IP and Domain Reputation Center for real-time threat detection",
@@ -320,7 +326,7 @@
   {
     "name": "GrayhatWarfare",
     "url": "https://grayhatwarfare.com/",
-    "description": "",
+    "description": "Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -332,7 +338,7 @@
   {
     "name": "Intelligence X",
     "url": "https://intelx.io/tools",
-    "description": "",
+    "description": "Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -357,6 +363,12 @@
     "name": "Netlas.io",
     "url": "https://app.netlas.io/",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ODIN",
+    "url": "https://search.odin.io/",
+    "description": "Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2721,6 +2733,12 @@
     "name": "IP 2 Location",
     "url": "http://www.ip2location.com/demo.aspx",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "IP Geolocation API DB-IP",
+    "url": "https://db-ip.com",
+    "description": "Pprovides IP geolocation and intelligence.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
