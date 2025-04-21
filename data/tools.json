@@ -1386,6 +1386,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Cupidcr4wl",
+    "url": "https://github.com/OSINTI4L/cupidcr4wl",
+    "description": "Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Digital Footprint Check",
     "url": "https://www.digitalfootprintcheck.com/free-checker.html",
     "description": "Check for registered username on 100s of sites for free.",
@@ -6519,6 +6525,12 @@
     "name": "The Harvester",
     "url": "https://github.com/laramies/theHarvester",
     "description": "Gather emails, subdomains, hosts, employee names, open ports and banners from different public sources like search engines, PGP key servers and SHODAN computer database.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Unfurl",
+    "url": "https://dfir.blog/unfurl/",
+    "description": "Unfurl analyzes and breaks down URLs into useful forensic components for digital investigation.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
