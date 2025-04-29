@@ -1274,7 +1274,19 @@
   {
     "name": "Maltego Telegram",
     "url": "https://github.com/vognik/maltego-telegram",
-    "description": "Rich Set of Entities & Transforms for OSINT on Telegram with Maltego",
+    "description": "Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "TgramSearch",
+    "url": "https://tgramsearch.com/",
+    "description": "Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Teleteg",
+    "url": "https://teleteg.com/",
+    "description": "The ultimate Telegram search engine. 10 results for free plan.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1506,6 +1518,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Apollo.io",
+    "url": "https://www.apollo.io/",
+    "description": "Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "BeenVerified",
     "url": "https://www.backgroundchecks.com/solutions/beenverified",
     "description": "",
@@ -1527,6 +1545,12 @@
     "name": "Classmates",
     "url": "http://www.classmates.com",
     "description": "High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ContactOut",
+    "url": "https://contactout.com/",
+    "description": "Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1809,6 +1833,12 @@
     "name": "Reacher",
     "url": "https://reacher.email",
     "description": "Real-time email verification API, written in Rust, 100% open-source.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Secureito",
+    "url": "https://www.secureito.com",
+    "description": "Secureito detects data breaches involving your email and suggests protection measures.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2583,6 +2613,12 @@
     "name": "Ответы",
     "url": "https://otvet.mail.ru/",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "aa419 Fake Sites Database",
+    "url": "https://db.aa419.org/fakebankslist.php",
+    "description": "The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -14095,7 +14131,7 @@
   },
   {
     "name": "Approx cloning time",
-    "url": "https://img.shields.io/badge/clone%20time-~%205m%2031s%20@50Mb/s-blue",
+    "url": "https://img.shields.io/badge/clone%20time-~%205m%2035s%20@50Mb/s-blue",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
