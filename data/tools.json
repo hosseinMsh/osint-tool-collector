@@ -1224,12 +1224,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Report Tree",
-    "url": "http://dcpu.ru/vk_repost_tree.php",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "VK5",
     "url": "http://vk5.city4me.com",
     "description": "",
@@ -1239,12 +1233,6 @@
     "name": "VK Community Search",
     "url": "http://vk.com/communities",
     "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "VK Parser",
-    "url": "http://vkparser.ru",
-    "description": "A tool to search for a target audience and potential customers.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1263,12 +1251,6 @@
     "name": "Tumblr Search",
     "url": "http://www.tumblr.com/search",
     "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "FTL",
-    "url": "https://chrome.google.com/webstore/detail/ftl/lkpekgkhmldknbcgjicjkomphkhhdkjj?hl=en-GB",
-    "description": "Browser plugin that finds emails of people's profiles in LinkedIn.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2658,12 +2640,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Check-The-Sum",
-    "url": "https://check-the-sum.fr/",
-    "description": "Database of IP addresses, domains, and malicious files collected via honeypots.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "Dedicated or Not",
     "url": "http://dedicatedornot.com",
     "description": "",
@@ -2754,12 +2730,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "IntelliTamper",
-    "url": "http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "intoDNS",
     "url": "http://www.intodns.com",
     "description": "",
@@ -2838,12 +2808,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "NetworkTools",
-    "url": "http://network-tools.com",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "Open Site Explorer",
     "url": "https://moz.com/researchtools/ose",
     "description": "",
@@ -2895,12 +2859,6 @@
     "name": "RedirectDetective",
     "url": "http://redirectdetective.com",
     "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Redirect Explorer",
-    "url": "https://www.redirectexplorer.com",
-    "description": "Redirect Explorer will show you where a URL goes, and if it's safe to use. No more guessing!",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2973,12 +2931,6 @@
     "name": "StatsCrop",
     "url": "http://www.statscrop.com",
     "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Threat Jammer",
-    "url": "https://threatjammer.com",
-    "description": "Risk scoring service from curated threat intelligence data.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
