@@ -300,6 +300,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Censys",
+    "url": "https://search.censys.io/",
+    "description": "Searcher that monitors and analyzes devices.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Cisco Talos Intelligence",
     "url": "https://talosintelligence.com/reputation_center",
     "description": "IP and Domain Reputation Center for real-time threat detection",
@@ -315,6 +321,12 @@
     "name": "Criminal IP",
     "url": "https://www.criminalip.io/",
     "description": "Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Fofa",
+    "url": "https://en.fofa.info/",
+    "description": "Asset search and analysis tool.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -516,6 +528,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "BeanPaste",
+    "url": "https://beanpaste.fun/",
+    "description": "A tiny way to share text.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "cl1p",
     "url": "https://Cl1p.net",
     "description": "",
@@ -525,6 +543,12 @@
     "name": "controlc",
     "url": "https://Controlc.com",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Cryptobin",
+    "url": "https://cryptobin.co/",
+    "description": "The Ultimate Secure Pastebin",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -588,6 +612,24 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "lesma.eu",
+    "url": "https://lesma.eu/",
+    "description": "Simple paste app friendly with browser and command line.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "PastBin.net",
+    "url": "https://pastbin.net/",
+    "description": "Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Pastebin",
+    "url": "https://pastebin.pl/",
+    "description": "Store code/text online for a set period of time and share to anybody on earth.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "paste.centos",
     "url": "https://paste.centos.org",
     "description": "",
@@ -612,15 +654,57 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Paste.Monster",
+    "url": "https://paste.monster/",
+    "description": "Share your thoughts online. API Available.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "paste.ubuntu",
     "url": "https://paste.ubuntu.com",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "PasteShr",
+    "url": "https://www.pasteshr.com/",
+    "description": "Store any text online for easy sharing. Search option available!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Rentry",
     "url": "https://rentry.co/",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "snippet.host",
+    "url": "https://snippet.host/",
+    "description": "Minimal text and code snippet hosting.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "TextBin",
+    "url": "https://textbin.net/",
+    "description": "Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Textbin-Code",
+    "url": "https://textbin.online/",
+    "description": "SECURE YOUR CODE!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Verybin",
+    "url": "https://www.verybin.com/",
+    "description": "Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ZBin",
+    "url": "https://zbin.dev/",
+    "description": "Private & Secure Pastebin.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1266,6 +1350,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Telegram Channel Joiner",
+    "url": "https://github.com/spmedia/Telegram-Channel-Joiner",
+    "description": "grow your Free and Premium Telegram accounts easily with this channel joiner script.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Teleteg",
     "url": "https://teleteg.com/",
     "description": "The ultimate Telegram search engine. 10 results for free plan.",
@@ -1281,6 +1371,12 @@
     "name": "Telegram Nearby Map",
     "url": "https://github.com/tejado/telegram-nearby-map",
     "description": "Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Telegram channels scraper TeleGraphite",
+    "url": "https://github.com/hamodywe/telegram-scraper-TeleGraphite",
+    "description": "Telegram Scraper & JSON Exporter & telegram channels scraper.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1785,6 +1881,12 @@
     "name": "MailTester",
     "url": "http://mailtester.com",
     "description": "hunt for emails and improve your email deliverability",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Minerva OSINT",
+    "url": "https://minervaosint.com",
+    "description": "Email search tool that finds and aggregates data on a target email from over a hundred websites.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2637,6 +2739,12 @@
     "name": "Central Ops",
     "url": "http://centralops.net",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Crypto Scam & Crypto Phishing URL Threat Intel Feed",
+    "url": "https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed",
+    "description": "A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
