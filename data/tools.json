@@ -14191,7 +14191,7 @@
   },
   {
     "name": "Approx cloning time",
-    "url": "https://img.shields.io/badge/clone%20time-~%205m%2040s%20@50Mb/s-blue",
+    "url": "https://img.shields.io/badge/clone%20time-~%205m%2041s%20@50Mb/s-blue",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
@@ -14258,6 +14258,12 @@
   {
     "name": "CeWL",
     "url": "https://github.com/digininja/CeWL",
+    "description": "",
+    "source_repo": "https://github.com/danielmiessler/SecLists"
+  },
+  {
+    "name": "Genoveva",
+    "url": "https://github.com/joseaguardia/GENOVEVA",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
