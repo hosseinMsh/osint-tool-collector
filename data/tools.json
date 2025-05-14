@@ -276,6 +276,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Abusech",
+    "url": "https://hunting.abuse.ch",
+    "description": "Hunt across all abuse.ch platforms with one simple query",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Abuseipdb",
     "url": "https://www.abuseipdb.com/",
     "description": "Repository of abuses reported by system administrators for IPs, Domains, and subnets",
@@ -363,6 +369,12 @@
     "name": "Internet Archive",
     "url": "https://archive.org/",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Islegitsite",
+    "url": "https://www.islegitsite.com/",
+    "description": "Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1344,6 +1356,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "GroupDa",
+    "url": "https://groupda.com/telegram/group/search",
+    "description": "Can be used for Searching Telegram Channels. Search by Category, Countries and Language.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Maltego Telegram",
     "url": "https://github.com/vognik/maltego-telegram",
     "description": "Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.",
@@ -1353,6 +1371,12 @@
     "name": "TgramSearch",
     "url": "https://tgramsearch.com/",
     "description": "Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "tgworld",
+    "url": "https://tg.world/",
+    "description": "The Global Search System TG.World will help you find Channels, Groups and Bots in Telegram in any language and for any country in the world!",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1383,6 +1407,12 @@
     "name": "Telegram channels scraper TeleGraphite",
     "url": "https://github.com/hamodywe/telegram-scraper-TeleGraphite",
     "description": "Telegram Scraper & JSON Exporter & telegram channels scraper.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "TeleSearch",
+    "url": "https://telesearch.me/",
+    "description": "Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -3063,6 +3093,12 @@
     "name": "urlDNA",
     "url": "https://urldna.io/",
     "description": "Unleash website insights! urldna.io analyzes url, monitors brands and track phishing sites.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "URLhaus",
+    "url": "https://urlhaus.abuse.ch",
+    "description": "URLhaus shares malicious URLs to combat malware and botnet threats",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
