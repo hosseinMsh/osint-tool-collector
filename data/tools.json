@@ -426,6 +426,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Wpscan",
+    "url": "https://wpscan.com",
+    "description": "Scan your WordPress site and get an instant report on its security.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Zanran",
     "url": "http://zanran.com",
     "description": "",
@@ -554,13 +560,19 @@
   {
     "name": "cl1p",
     "url": "https://Cl1p.net",
-    "description": "",
+    "description": "The Internet Clipboard.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Context",
+    "url": "https://ctxt.io/",
+    "description": "Share whatever you see with others in seconds.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
     "name": "controlc",
     "url": "https://Controlc.com",
-    "description": "",
+    "description": "The easiest way to host your text.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -591,6 +603,12 @@
     "name": "GitHub gist",
     "url": "https://gist.github.com",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "HashBin",
+    "url": "https://hashb.in/#Q===",
+    "description": "HashBin is a paste bin that never sees the contents of its pastes.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -630,9 +648,45 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Logpasta",
+    "url": "https://logpasta.com/",
+    "description": "Simple, secure log paste service. Command line mode based.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "lesma.eu",
     "url": "https://lesma.eu/",
     "description": "Simple paste app friendly with browser and command line.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Nachricht",
+    "url": "https://nachricht.co/",
+    "description": "With Nachricht.co you can send self-destructive and encrypted one-way messages over the Internet. You don't even need to miss out the messenger or social network of your choice. We are an independent, secure and fully free service!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "NoPaste",
+    "url": "https://nopaste.boris.sh/",
+    "description": "NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "New Paste",
+    "url": "https://paste1.com/",
+    "description": "I wanna paste because typing is so boring!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "n0paste",
+    "url": "https://n0paste.eu/",
+    "description": "Paste and share your code online.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "OTS- One Time Secrets",
+    "url": "https://ots.hackliberty.org/",
+    "description": "An encrypted pastebin site. No login needed!",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -645,6 +699,12 @@
     "name": "Pastebin",
     "url": "https://pastebin.pl/",
     "description": "Store code/text online for a set period of time and share to anybody on earth.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Paste.Cash",
+    "url": "https://www.paste.cash/",
+    "description": "Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -666,6 +726,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "PasteFree.com",
+    "url": "https://pastefree.com/",
+    "description": "Popular Paste and Share Site.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "paste.kde",
     "url": "https://Paste.kde.org",
     "description": "",
@@ -684,9 +750,21 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Pastery",
+    "url": "https://www.pastery.net/",
+    "description": "The sweetest pastebin in the world!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "PasteShr",
     "url": "https://www.pasteshr.com/",
     "description": "Store any text online for easy sharing. Search option available!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Pastebin - Tor Link",
+    "url": "https://tor.link/paste/new",
+    "description": "Tor Link](https://tor.link/paste/new)",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -696,9 +774,27 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "SafeNote",
+    "url": "https://safenote.co/",
+    "description": "SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "scrt.link",
+    "url": "https://scrt.link/",
+    "description": "Share a Secret with a link that only works one time and then self-destructs.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "snippet.host",
     "url": "https://snippet.host/",
     "description": "Minimal text and code snippet hosting.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Spacebin",
+    "url": "https://spaceb.in/",
+    "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1724,7 +1820,7 @@
   {
     "name": "Homemetry",
     "url": "https://homemetry.com",
-    "description": "Reverse address search and allows searching for properties for sale/rent.",
+    "description": "Reverse address search and allows searching for properties for sale/rent..",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2856,6 +2952,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Fullhunt",
+    "url": "https://fullhunt.io/",
+    "description": "FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "GraphyStories",
     "url": "http://app.graphystories.com",
     "description": "",
@@ -2913,6 +3015,12 @@
     "name": "IP Location",
     "url": "https://www.iplocation.net",
     "description": "is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "IP Location.io",
+    "url": "https://iplocation.io",
+    "description": "IPLocation.io allows you to check the location of an IP for free",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -6438,6 +6546,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "aadinternals",
+    "url": "https://aadinternals.com/osint",
+    "description": "Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Barcode Reader",
     "url": "http://online-barcode-reader.inliteresearch.com",
     "description": "Decode barcodes in C#, VB, Java, C\\C++, Delphi, PHP and other languages.",
@@ -6483,6 +6597,12 @@
     "name": "Discoshell",
     "url": "https://github.com/foozzi/discoshell",
     "description": "A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Dorkgpt",
+    "url": "https://www.dorkgpt.com",
+    "description": "Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -6609,6 +6729,12 @@
     "name": "QuickCode",
     "url": "https://quickcode.io/",
     "description": "Python and R data analysis environment.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Router Passwords",
+    "url": "https://www.routerpasswords.com",
+    "description": "Online database of default router passwords.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
