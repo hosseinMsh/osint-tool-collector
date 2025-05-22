@@ -408,6 +408,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Search Abuseipdb",
+    "url": "https://github.com/oseasfr/search-abuseipdb",
+    "description": "Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Shodan",
     "url": "https://www.shodan.io/",
     "description": "Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.",
@@ -507,6 +513,18 @@
     "name": "SlideShare",
     "url": "http://www.slideshare.net",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Mine",
+    "url": "https://www.saymine.com/mineapp",
+    "description": "Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Yorba",
+    "url": "https://yorba.co/",
+    "description": "Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
