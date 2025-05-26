@@ -576,9 +576,27 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "bpaste",
+    "url": "https://bpa.st/",
+    "description": "Welcome to bpaste, this site is a pastebin. It allows you to share code with others.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "CentOS Pastebin Service",
+    "url": "https://paste.centos.org/",
+    "description": "Stikked is an Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "cl1p",
     "url": "https://Cl1p.net",
     "description": "The Internet Clipboard.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "commie",
+    "url": "https://commie.io/",
+    "description": "commie is a pastebin script with line commenting support.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -588,7 +606,7 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "controlc",
+    "name": "ControlC Pastebin",
     "url": "https://Controlc.com",
     "description": "The easiest way to host your text.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
@@ -600,9 +618,21 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Cutapaste",
+    "url": "https://cutapaste.net/",
+    "description": "Short Code and Share.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Defuse",
+    "url": "https://defuse.ca/pastebin.htm",
+    "description": "Encrypted Pastebin",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "doxbin",
     "url": "https://doxbin.net/",
-    "description": "A dox style pastebin ran by hackers",
+    "description": "A dox style pastebin ran by hackers.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -615,6 +645,18 @@
     "name": "dpaste",
     "url": "https://Dpaste.com",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Etusivu",
+    "url": "https://pastebin.fi/",
+    "description": "It's an open source clone of pastebin.com. Default Language is Finnish.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Friendpaste",
+    "url": "https://friendpaste.com/",
+    "description": "Paste stuff to your friends.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -662,7 +704,13 @@
   {
     "name": "Katbin",
     "url": "https://katb.in",
-    "description": "",
+    "description": "Small, lightweight pastebin.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Linkode(alpha)",
+    "url": "https://linkode.org/",
+    "description": "Linkode is the useful pastebin!",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -690,6 +738,24 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "nopaste.net",
+    "url": "https://nopaste.net/",
+    "description": "nopaste.net is a temporary file host, nopaste and clipboard across machines. You can upload files or text and share the link with others.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Notes",
+    "url": "https://notes.io/",
+    "description": "fast.easy.short.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "nekobin",
+    "url": "https://nekobin.com/",
+    "description": "Paste code, save and share the link!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "New Paste",
     "url": "https://paste1.com/",
     "description": "I wanna paste because typing is so boring!",
@@ -708,6 +774,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "paaster",
+    "url": "https://paaster.io/",
+    "description": "Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "PastBin.net",
     "url": "https://pastbin.net/",
     "description": "Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.",
@@ -717,6 +789,12 @@
     "name": "Pastebin",
     "url": "https://pastebin.pl/",
     "description": "Store code/text online for a set period of time and share to anybody on earth.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Pastebin.cz",
+    "url": "https://www.pastebin.cz/en/",
+    "description": "A simple Pastebin.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -750,9 +828,21 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "paste.in.ua",
+    "url": "https://paste.in.ua/",
+    "description": "Simple pastebin.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "paste.kde",
     "url": "https://Paste.kde.org",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Pastelyst",
+    "url": "https://paste.cutelyst.org/",
+    "description": "This site is intended for use as a short-term exchange of pasted information between parties. All publicly submitted data is considered public information. Submitted private and public data is not guaranteed to be permanent, and may be removed at any time.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -768,9 +858,27 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Paste.Quest",
+    "url": "https://pastequest.com/",
+    "description": "Copy and Paste text online to share with anyone anywhere. Use the password option to add a password to the pasted information.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Pastery",
     "url": "https://www.pastery.net/",
     "description": "The sweetest pastebin in the world!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "PasteSite.Net",
+    "url": "https://pastesite.net/",
+    "description": "The new generation pastebin.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "paste.sh",
+    "url": "https://paste.sh/",
+    "description": "This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -788,7 +896,7 @@
   {
     "name": "Rentry",
     "url": "https://rentry.co/",
-    "description": "",
+    "description": "Rentry.co is a markdown paste service service with preview, custom urls and editing. Fast, simple and free.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -812,7 +920,7 @@
   {
     "name": "Spacebin",
     "url": "https://spaceb.in/",
-    "description": "",
+    "description": "Spacebin is a modern Pastebin server implemented in Go and is capable of serving notes, novels, code, or any other form of text.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -828,15 +936,45 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Tiny Paste",
+    "url": "https://tinypaste.in/",
+    "description": "Simple Pastebin. Login option available!",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "TutPaste",
+    "url": "https://tutpaste.com/",
+    "description": "Welcome to our fast and free online paste tool. Paste and share your text or code snippets with anyone, anywhere, no registration required.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "vaultbin",
+    "url": "https://vaultb.in/",
+    "description": "Vaultbin is a blazingly fast and secure alternative to Pastebin and Hastebin.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Verybin",
     "url": "https://www.verybin.com/",
     "description": "Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Write.as",
+    "url": "https://write.as/",
+    "description": "Type words, put them on the internet.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "ZBin",
     "url": "https://zbin.dev/",
     "description": "Private & Secure Pastebin.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ZeroBin",
+    "url": "https://sebsauvage.net/paste/",
+    "description": "ZeroBin is a minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -5562,6 +5700,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Bromite",
+    "url": "https://www.bromite.org/",
+    "description": "Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser. Works only on Android.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "CentBrowser",
     "url": "http://www.centbrowser.com",
     "description": "",
@@ -5586,6 +5730,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Gnu Icecat",
+    "url": "https://icecatbrowser.org/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Edge",
     "url": "https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge",
     "description": "",
@@ -5595,6 +5745,12 @@
     "name": "Firefox",
     "url": "https://www.mozilla.org",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "LibreWolf",
+    "url": "https://librewolf.net/",
+    "description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -5654,7 +5810,13 @@
   {
     "name": "Vivaldi",
     "url": "https://vivaldi.com",
-    "description": "",
+    "description": "Powerful, Private and Personal Web Browser.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Waterfox",
+    "url": "https://www.waterfox.net/",
+    "description": "Fast and Private Web Browser. Get privacy out of the box with Waterfox.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
