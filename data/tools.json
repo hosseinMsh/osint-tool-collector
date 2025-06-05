@@ -7344,6 +7344,18 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "LibraryOfLeaks",
+    "url": "https://search.libraryofleaks.org",
+    "description": "Search for leak documents, companies, people, database and more",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
+    "name": "LeakRadar",
+    "url": "https://leakradar.io/",
+    "description": "Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "Lampyre",
     "url": "https://lampyre.io/",
     "description": "Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.",
@@ -12405,6 +12417,12 @@
     "name": "Check-The-Sum",
     "url": "https://check-the-sum.fr/",
     "description": "Database of IP addresses, domains and malicious files collected from a network of honeypots",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
+    "name": "SubDomainRadar.io",
+    "url": "https://subdomainradar.io/",
+    "description": "All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access",
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
