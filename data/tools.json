@@ -9852,6 +9852,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "CallSpy",
+    "url": "https://callspy.profiler.me/",
+    "description": "Get real-time details about any phone number from our 10+ sources, including Truecaller, Eyecon, CallApp, and many more",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "PhoneInfoga",
     "url": "https://sundowndev.github.io/phoneinfoga/",
     "description": "PhoneInfoga is one of the most advanced tools to scan international phone numbers. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number, then search for footprints on search engines to try to find the VoIP provider or identify the owner.",
