@@ -414,6 +414,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Shadowserver",
+    "url": "https://dashboard.shadowserver.org/",
+    "description": "Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Shodan",
     "url": "https://www.shodan.io/",
     "description": "Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.",
@@ -525,6 +531,96 @@
     "name": "Yorba",
     "url": "https://yorba.co/",
     "description": "Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "APT Groups and Operations",
+    "url": "https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#",
+    "description": "Know about Threat Actors, sponsored countries, their tools, methods, etc.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "APTWiki",
+    "url": "https://apt.threatradar.net/",
+    "description": "Historical wiki with 214 actor entries.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Bi.Zone",
+    "url": "https://gti.bi.zone/",
+    "description": "148 threat groups with detailed TTPs.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "BreachHQ",
+    "url": "https://breach-hq.com/threat-actors",
+    "description": "Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Cybergeist",
+    "url": "https://cybergeist.io/threat-actor",
+    "description": "Cybergeist.io generates intelligence profiles about key threats and threat context that is actively being discussed and reported upon across the internet.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Dark Web Informer",
+    "url": "https://darkwebinformer.com/threat-actor-database/",
+    "description": "Tracking 854 Threat Actors as of 29th of May 2025.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ETDA",
+    "url": "https://apt.etda.or.th/cgi-bin/listgroups.cgi",
+    "description": "Search for Threat Actor groups and their tools.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "FortiGuard Labs",
+    "url": "https://www.fortiguard.com/threat-actor",
+    "description": "Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "KNOWLEDGENOW",
+    "url": "https://know.netenrich.com/content/track/threat-actor",
+    "description": "Trending Threats.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "lazarusholic",
+    "url": "https://lazarus.day/actors/",
+    "description": "Total 203 threat actors.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Malpedia",
+    "url": "https://malpedia.caad.fkie.fraunhofer.de/actors",
+    "description": "Get List of threat actor groups.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "MISP Galaxy",
+    "url": "https://www.misp-galaxy.org/360net/",
+    "description": "Known or estimated adversary groups as identified by 360.net.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "OPENHUNTING.IO",
+    "url": "https://openhunting.io/threat-library",
+    "description": "Threat Library Collecting Information.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SOCRadar LABS",
+    "url": "https://socradar.io/labs/threat-actor/",
+    "description": "Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Thales",
+    "url": "https://cds.thalesgroup.com/en/cyberthreat/attacks-page",
+    "description": "Find Threat actor groups in a graphical attack explorer.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -3126,6 +3222,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Hybrid Analysis",
+    "url": "https://www.hybrid-analysis.com",
+    "description": "Online service for detailed and free analysis of suspicious files and URLs.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "HypeStat",
     "url": "https://www.hypestat.com",
     "description": "",
@@ -3747,6 +3849,12 @@
     "name": "DiffChecker",
     "url": "https://www.diffchecker.com/image-diff/",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "EXIFEditor.io",
+    "url": "https://exifeditor.io",
+    "description": "In-browser EXIF image metadata editor, viewer, and analysis tool.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -13239,6 +13347,12 @@
     "name": "Coinwink.com",
     "url": "https://coinwink.com/",
     "description": "Track important price changes of your favorite cryptocurrencies with the help of Coinwink crypto alerts",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
+    "name": "onionland",
+    "url": "https://onionland.io/",
+    "description": "search engine for onion sites",
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
