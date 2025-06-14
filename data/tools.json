@@ -1554,6 +1554,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Osintgraph",
+    "url": "https://github.com/XD-MHLOO/Osintgraph",
+    "description": "Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Picodash",
     "url": "https://www.picodash.com",
     "description": "Find Instagram Target Audience and Influencers",
@@ -14689,7 +14695,7 @@
   },
   {
     "name": "Approx cloning time",
-    "url": "https://img.shields.io/badge/clone%20time-~%205m%2053s%20@50Mb/s-blue",
+    "url": "https://img.shields.io/badge/clone%20time-~%205m%2056s%20@50Mb/s-blue",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
