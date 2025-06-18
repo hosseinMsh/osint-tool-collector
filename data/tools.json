@@ -11418,6 +11418,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "Vulert-DB",
+    "url": "https://vulert.com/vuln-db",
+    "description": "Vulert's vulnerability database lists recent security issues found in open-source packages for languages like PHP, Java, Python, Node.js, and others.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "Google & Bing",
     "url": "https://one-plus.github.io/GoogleBing",
     "description": "Google has a large library of search operators that can help with internet-based research, below is just a selection of them.",
