@@ -624,6 +624,66 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Bitdefender Threat Map",
+    "url": "https://threatmap.bitdefender.com/",
+    "description": "Cyberthreat Real Time Map by Bitdefender.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "BunkerWeb Live Cyber Attack Threat Map",
+    "url": "https://threatmap.bunkerweb.io/",
+    "description": "Live cyber attack blocked by BunkerWeb, the open source and next generation Web Application Firewall.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Check Point Live Cyber Threat Map",
+    "url": "https://threatmap.checkpoint.com/",
+    "description": "Explore the top cyber threats of 2025, including ransomware, infostealers, and cloud vulnerabilities.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Cisco Talos Intelligence",
+    "url": "https://talosintelligence.com/ebc_spam",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Fortiguard Labs",
+    "url": "https://fortiguard.fortinet.com/threat-map",
+    "description": "FortiGuard Outbreak Alerts provides key information about on-going cybersecurity attack with significant ramifications affecting numerous companies, organizations and industries.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "HCL Threat Map",
+    "url": "https://www.hcltech.com/hcl-threat-map",
+    "description": "Cyber Threat Map by HCLTech.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Imperva Live Threat Map",
+    "url": "https://www.imperva.com/cyber-threat-attack-map/",
+    "description": "A real-time global view of DDoS attacks, hacking attempts, and bot assaults mitigated by Imperva security services.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Kaspersky Cyberthreat live Map",
+    "url": "https://cybermap.kaspersky.com/",
+    "description": "Find out if you are under cyber-attack here.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Radware Live Cyber Threat Map",
+    "url": "https://livethreatmap.radware.com/",
+    "description": "Radware's Live Threat Map presents near real-time information about cyberattacks as they occur, based on our global threat deception network.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Zscaler Global Threat Map Dashboard",
+    "url": "https://threatlabz.zscaler.com/cloud-insights/threat-map-dashboard",
+    "description": "Illustrates those we've seen in the past 24 hours, consisting of threats detected by our antivirus engines, malware and advanced persistent threats.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "de digger",
     "url": "https://www.dedigger.com/",
     "description": "is a website that allows you to find any types of files that are publicly available in a Google Drive.",
