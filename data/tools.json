@@ -378,6 +378,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "MalwareBazaar",
+    "url": "https://bazaar.abuse.ch/browse/",
+    "description": "Search and download confirmed malware samples by hash, family, tag, and other criteria.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Mamont",
     "url": "https://www.mmnt.ru/",
     "description": "",
@@ -1608,6 +1614,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "instagram_monitor",
+    "url": "https://github.com/misiektoja/instagram_monitor",
+    "description": "Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Osintgram",
     "url": "https://github.com/Datalux/Osintgram",
     "description": "Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.",
@@ -1641,6 +1653,12 @@
     "name": "Pingroupie",
     "url": "http://pingroupie.com",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Pinterest Pin Stats",
+    "url": "https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel",
+    "description": "Display hidden Pinterest stats for each pin.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1770,6 +1788,18 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "the-endorser",
+    "url": "https://github.com/eth0izzle/the-endorser",
+    "description": "Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "LinkedInDumper",
+    "url": "https://github.com/l4rm4nd/LinkedInDumper",
+    "description": "Script to dump/scrape/extract company employees info from LinkedIn API.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "GroupDa",
     "url": "https://groupda.com/telegram/group/search",
     "description": "Can be used for Searching Telegram Channels. Search by Category, Countries and Language.",
@@ -1833,6 +1863,12 @@
     "name": "OSINT-Steam",
     "url": "https://osint-steam.vercel.app/en",
     "description": "An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "github_monitor",
+    "url": "https://github.com/misiektoja/github_monitor",
+    "description": "Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -3186,6 +3222,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Browserling",
+    "url": "https://www.browserling.com",
+    "description": "Browserling is an online sandbox that lets users safely test potentially malicious links across browsers and operating systems in real time.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "BuiltWith",
     "url": "http://builtwith.com",
     "description": "is a website that will help you find out all the technologies used to build a particular websites.",
@@ -3357,6 +3399,12 @@
     "name": "IPVoid",
     "url": "http://www.ipvoid.com",
     "description": "IP address toolset.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ISP.Tools",
+    "url": "https://www.isp.tools",
+    "description": "Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7194,6 +7242,24 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "spotify_profile_monitor",
+    "url": "https://github.com/misiektoja/spotify_profile_monitor",
+    "description": "Tool for real-time tracking of Spotify users' activities and profile changes, including playlists, with support for email alerts, CSV logging, showing media in the terminal, detection of profile picture changes and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "spotify_monitor",
+    "url": "https://github.com/misiektoja/spotify_monitor",
+    "description": "Tool for real-time tracking of Spotify friends' listening activity including detection when user gets online & offline, played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "lastfm_monitor",
+    "url": "https://github.com/misiektoja/lastfm_monitor",
+    "description": "Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Amazing mind reader reveals his ‘gift’",
     "url": "https://www.youtube.com/watch?v=F7pYHN9iC9I",
     "description": "",
@@ -7305,6 +7371,12 @@
     "name": "Bellingcat Online Researcher Survey: Tool Wishes",
     "url": "https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Cipherstick",
+    "url": "https://cipherstick.tech",
+    "description": "Free OSINT Puzzles",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
