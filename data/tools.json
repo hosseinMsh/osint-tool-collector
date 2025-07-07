@@ -2376,6 +2376,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Multirbl",
+    "url": "https://multirbl.valli.org/dnsbl-lookup",
+    "description": "MultiRBL Valli checks if an IP or domain is listed on multiple public RBLs (blacklists) simultaneously.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "mxtoolbox",
     "url": "https://mxtoolbox.com/",
     "description": "Free online tools to investigate/troubleshoot email server issues.",
@@ -7239,6 +7245,30 @@
     "name": "REScure Threat Intel Feed",
     "url": "https://rescure.fruxlabs.com/",
     "description": "REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "steam_monitor",
+    "url": "https://github.com/misiektoja/steam_monitor",
+    "description": "Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "psn_monitor",
+    "url": "https://github.com/misiektoja/psn_monitor",
+    "description": "Tool for real-time tracking of Sony Playstation (PSN) players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "xbox_monitor",
+    "url": "https://github.com/misiektoja/xbox_monitor",
+    "description": "Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "lol_monitor",
+    "url": "https://github.com/misiektoja/lol_monitor",
+    "description": "Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
