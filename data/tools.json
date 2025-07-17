@@ -7632,6 +7632,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "InfoStealers",
+    "url": "https://infostealers.info/en/info",
+    "description": "Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "Lampyre",
     "url": "https://lampyre.io/",
     "description": "Data analysis & osint tool, obtain, visualize and analyze data in one place to see what other's can't.",
