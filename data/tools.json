@@ -138,6 +138,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Daum (South Korea)",
+    "url": "https://www.daum.net/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Eniro (Sweden)",
     "url": "http://www.eniro.se",
     "description": "",
@@ -180,6 +186,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Parsijoo (Iran)",
+    "url": "https://www.parsijoo.ir/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "SAPO (Portugal)",
     "url": "http://www.sapo.pt",
     "description": "",
@@ -194,6 +206,12 @@
   {
     "name": "Seznam(Czech Republic)",
     "url": "https://seznam.cz",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SoGou (China)",
+    "url": "http://www.sogou.com/",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -7023,6 +7041,12 @@
     "name": "DuckDuckGo URL scraper",
     "url": "https://github.com/its0x08/duckduckgo",
     "description": "A simple DuckDuckGo URL scraper.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Find osint tool",
+    "url": "https://find.osint-tool.com",
+    "description": "Searches multiple OSINT tools to find information across various sources.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
