@@ -12516,6 +12516,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "Focsec",
+    "url": "https://focsec.com",
+    "description": "IP Threat Intelligence, provides general IP information, Proxy, TOR and VPN Detection",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "favihash",
     "url": "https://www.favihash.com/",
     "description": "Get the hash of a favicon to identify websites using the same. Works on both open web and dark web.",
