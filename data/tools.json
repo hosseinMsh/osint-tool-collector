@@ -60,12 +60,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "DuckDuckGo",
-    "url": "https://duckduckgo.com",
-    "description": "an Internet search engine that emphasizes protecting searchers' privacy.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "Goodsearch",
     "url": "https://www.goodsearch.com",
     "description": "a search engine for shopping deals online.",
@@ -285,6 +279,66 @@
     "name": "Swisscows",
     "url": "https://swisscows.com/",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "DuckDuckGo",
+    "url": "https://duckduckgo.com",
+    "description": "an Internet search engine that emphasizes protecting searchers' privacy.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Disconnect Search",
+    "url": "https://search.disconnect.me/",
+    "description": "Stop search engines from tracking your searches.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Gibiru",
+    "url": "https://gibiru.com/",
+    "description": "Gibiru provides “uncensored search results” without collecting personal data like logging users’ IP addresses or search queries.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Kagi Search",
+    "url": "https://kagi.com/",
+    "description": "Liberate your search. Free of ads. Free of surveillance. Your time respected. You are the customer, never the product.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Mojeek",
+    "url": "https://www.mojeek.com/",
+    "description": "Mojeek is a growing independent search engine which does not track you.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Presearch",
+    "url": "https://presearch.com/",
+    "description": "Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Qwant",
+    "url": "https://www.qwant.com/",
+    "description": "The search engine that respects your privacy.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Search Encrypt",
+    "url": "https://www.searchencrypt.com/home",
+    "description": "A search engine that uses local encryption to protect users’ search data.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Startpage",
+    "url": "https://www.startpage.com/",
+    "description": "The world’s most private search engine.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "swisscows",
+    "url": "https://swisscows.com/en",
+    "description": "Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1617,6 +1671,12 @@
     "name": "instagram_monitor",
     "url": "https://github.com/misiektoja/instagram_monitor",
     "description": "Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "InstagramPrivSniffer",
+    "url": "https://github.com/obitouka/InstagramPrivSniffer",
+    "description": "Views Instagram PRIVATE ACCOUNT'S media without login 😱.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -3909,6 +3969,12 @@
     "name": "Faceagle",
     "url": "https://faceagle.com/",
     "description": "Faceagle is a face recognition search engine.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "FaceSeek",
+    "url": "https://faceseek.online",
+    "description": "Online Face Search engine.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
