@@ -144,13 +144,19 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Gerdoo (Iran)",
+    "url": "http://gerdoo.me",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Goo (Japan)",
     "url": "http://www.goo.ne.jp",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Najdsi (Slovenia)",
+    "name": "Najdi (Slovenia)",
     "url": "http://www.najdi.si",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
@@ -176,12 +182,6 @@
   {
     "name": "Parseek (Iran)",
     "url": "http://www.parseek.com",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Parsijoo (Iran)",
-    "url": "https://www.parsijoo.ir/",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -222,8 +222,8 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Najdi.si (Slovenia)",
-    "url": "http://www.najdi.si/",
+    "name": "Zarebin (Iran)",
+    "url": "http://zarebin.ir",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -522,6 +522,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "YARAif",
+    "url": "https://yaraify.abuse.ch/scan/",
+    "description": "Collaborative YARA engine providing open threat intelligence through file pattern matching.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Zanran",
     "url": "http://zanran.com",
     "description": "",
@@ -783,6 +789,12 @@
     "name": "FilePursuit",
     "url": "https://filepursuit.com/",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Filesec.io",
+    "url": "https://filesec.io/",
+    "description": "Central resource cataloging malicious file extensions, their risks, OS and mitigations.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -3741,6 +3753,12 @@
     "name": "WebMeUp",
     "url": "http://webmeup.com",
     "description": "is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Webscore",
+    "url": "https://garvit835.github.io/WebScore/",
+    "description": "Enter a website URL to check its legitimacy.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7266,6 +7284,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "CTI Stuffs",
+    "url": "https://github.com/spmedia/CTI-Stuffs",
+    "description": "A collection of fresh intel scraped from various cybercrime sources & forums.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "GitGuardian - Public GitHub Monitoring",
     "url": "https://www.gitguardian.com/monitor-public-github-for-secrets",
     "description": "Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets)",
@@ -7287,6 +7311,12 @@
     "name": "OTX AlienVault",
     "url": "https://otx.alienvault.com/",
     "description": "Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "PhishingSecLists",
+    "url": "https://github.com/spmedia/PhishingSecLists",
+    "description": "This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
