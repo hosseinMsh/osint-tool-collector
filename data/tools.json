@@ -744,6 +744,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "IBM X-Force Exchange Current Malicious Activity",
+    "url": "https://exchange.xforce.ibmcloud.com/activity/map",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Imperva Live Threat Map",
     "url": "https://www.imperva.com/cyber-threat-attack-map/",
     "description": "A real-time global view of DDoS attacks, hacking attempts, and bot assaults mitigated by Imperva security services.",
@@ -756,9 +762,39 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "LIONIC Cyber Threat Map",
+    "url": "https://www.lionic.com/monitoring/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "NETSCOUT Cyber Threat Map",
+    "url": "https://horizon.netscout.com/",
+    "description": "Real-Time DDoS Attack Map",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Radware Live Cyber Threat Map",
     "url": "https://livethreatmap.radware.com/",
     "description": "Radware's Live Threat Map presents near real-time information about cyberattacks as they occur, based on our global threat deception network.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Secure Gateway Live Cyber Threat Map",
+    "url": "https://securegateway.com/map/v5/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Thale's Cyberthreat Map",
+    "url": "https://cds.thalesgroup.com/en/cyberthreat/hitmap",
+    "description": "Discover cybersecurity trends with Thales' Cyberthreat map. Explore targeted areas, frequent attacks, affected sectors, and prevalent malware.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ThreatsEye | Live Cyber Threat Map",
+    "url": "https://threatseye.io/threats-map",
+    "description": "Real-time visualization of global cyber attacks and threats. Monitor live cyber security incidents, attack origins, targets, and threat categories worldwide.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7119,6 +7155,12 @@
     "name": "Greynoise",
     "url": "https://greynoise.io/",
     "description": "\"Anti-Threat Intelligence\" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "IntelHub",
+    "url": "https://github.com/tomsec8/IntelHub",
+    "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
