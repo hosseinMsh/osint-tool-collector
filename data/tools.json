@@ -120,6 +120,18 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "DorkGenius",
+    "url": "https://dorkgenius.com/",
+    "description": "DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "DorkGPT",
+    "url": "https://www.dorkgpt.com/",
+    "description": "Generate Google Dorks with AI.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Alleba (Philippines)",
     "url": "http://www.alleba.com",
     "description": "Philippines search engine",
@@ -1701,6 +1713,12 @@
     "name": "Wolfram Alpha Facebook Report",
     "url": "http://www.wolframalpha.com/input/?i=facebook+report",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Dolphin Radar",
+    "url": "https://www.dolphinradar.com/web-viewer-for-instagram",
+    "description": "An Instagram Post Viewer lets you view posts, stories, and profiles from public accounts with ease. Free viewer limit: 1.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
