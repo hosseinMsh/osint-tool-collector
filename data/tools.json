@@ -15001,7 +15001,7 @@
   },
   {
     "name": "Approx cloning time",
-    "url": "https://img.shields.io/badge/clone%20time-~%206m%2022s%20@50Mb/s-blue",
+    "url": "https://img.shields.io/badge/clone%20time-~%206m%2033s%20@50Mb/s-blue",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
