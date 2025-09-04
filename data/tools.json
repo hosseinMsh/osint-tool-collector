@@ -14982,38 +14982,14 @@
     "source_repo": "https://github.com/tracelabs/awesome-osint"
   },
   {
-    "name": "!",
-    "url": "https://github.com/user-attachments/assets/96ab3d81-9b13-4df4-ba09-75dee7a5c3d2",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
     "name": "Daniel Miessler",
     "url": "https://danielmiessler.com/",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
   {
-    "name": "Repo size",
-    "url": "https://img.shields.io/github/repo-size/danielmiessler/SecLists.svg",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
-    "name": "Approx cloning time",
-    "url": "https://img.shields.io/badge/clone%20time-~%206m%2033s%20@50Mb/s-blue",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
     "name": "Tool Page",
     "url": "https://www.kali.org/tools/seclists/",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
-    "name": "Tool Page",
-    "url": "https://blackarch.org/tools.html",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
@@ -15042,44 +15018,14 @@
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
   {
-    "name": "BiblePass",
-    "url": "https://github.com/MusicGivesMeLife/BiblePass",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
-    "name": "SamLists",
-    "url": "https://github.com/the-xentropy/samlists",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
     "name": "Cook",
     "url": "https://github.com/giteshnxtlvl/cook",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
   {
-    "name": "Wl",
-    "url": "https://github.com/s0md3v/wl",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
-    "name": "CeWL",
-    "url": "https://github.com/digininja/CeWL",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
-    "name": "Genoveva",
-    "url": "https://github.com/joseaguardia/GENOVEVA",
-    "description": "",
-    "source_repo": "https://github.com/danielmiessler/SecLists"
-  },
-  {
-    "name": "!",
-    "url": "https://img.shields.io/badge/license-MIT_License-blue",
+    "name": "MIT License",
+    "url": "https://danielmiessler.com/images/mitlicense.png",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
