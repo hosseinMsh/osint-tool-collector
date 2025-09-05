@@ -14954,31 +14954,145 @@
   {
     "name": "Buster",
     "url": "https://github.com/sham00n/buster",
-    "description": "An advanced tool for email reconnaissance",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Have I Been Pwned",
+    "url": "https://haveibeenpwned.com/",
+    "description": "",
     "source_repo": "https://github.com/tracelabs/awesome-osint"
   },
   {
     "name": "Maltego",
     "url": "https://www.maltego.com",
-    "description": "Maltego focuses on providing a library of transforms for discovery of data from open sources, and visualizing that information in a graph format, suitable for link analysis and data mining",
+    "description": "",
     "source_repo": "https://github.com/tracelabs/awesome-osint"
   },
   {
-    "name": "Spiderfoot",
+    "name": "SpiderFoot",
     "url": "https://github.com/smicallef/spiderfoot",
-    "description": "SpiderFoot automates the collection of OSINT to find everything possible about a target",
+    "description": "",
     "source_repo": "https://github.com/tracelabs/awesome-osint"
   },
   {
-    "name": "Instaloader",
-    "url": "https://instaloader.github.io/",
-    "description": "Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram",
+    "name": "WhatsMyName",
+    "url": "https://whatsmyname.app/",
+    "description": "",
     "source_repo": "https://github.com/tracelabs/awesome-osint"
   },
   {
     "name": "Sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
-    "description": "Command line tool to search usernames across social networks",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Instaloader",
+    "url": "https://instaloader.github.io/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "PhoneInfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Truecaller",
+    "url": "https://www.truecaller.com/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Google Images",
+    "url": "https://images.google.com/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Yandex Images",
+    "url": "https://yandex.com/images/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "ExifTool",
+    "url": "https://exiftool.org/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Jimpl EXIF Viewer",
+    "url": "https://jimpl.com/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "FFmpeg",
+    "url": "https://ffmpeg.org/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "GoWitness",
+    "url": "https://github.com/sensepost/gowitness",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Wayback Machine",
+    "url": "https://archive.org/web/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Archive.today",
+    "url": "https://archive.ph/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Google Maps",
+    "url": "https://maps.google.com/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Mapillary",
+    "url": "https://www.mapillary.com/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Shodan",
+    "url": "https://www.shodan.io/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Censys",
+    "url": "https://censys.com/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "WiGLE",
+    "url": "https://wigle.net/",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "Translate Shell",
+    "url": "https://github.com/soimort/translate-shell",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
+    "name": "DeepL",
+    "url": "https://www.deepl.com/",
+    "description": "",
     "source_repo": "https://github.com/tracelabs/awesome-osint"
   },
   {
