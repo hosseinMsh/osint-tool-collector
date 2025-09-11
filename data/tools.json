@@ -10008,6 +10008,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "Phantom Finder (iOS)",
+    "url": "https://apps.apple.com/gb/app/phantom-finder-username-search/id6736408372",
+    "description": "Mobile reverse username search with direct profile links.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "WhatsMyName Web",
     "url": "https://whatsmyname.app/",
     "description": "username search",
