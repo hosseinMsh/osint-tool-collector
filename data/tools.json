@@ -7836,6 +7836,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "anonchatgpt",
+    "url": "https://anonchatgpt.com",
+    "description": "AnonChatGPT is a ChatGPT client that provides a convenient way to interact with ChatGPT without needing an account or disclosing any personal information. Unlike other chatbot platforms, AnonChatGPT doesn't require users to create an account, making it completely anonymous and free to use for anyone.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "ai-toolkit",
     "url": "https://huggingface.co/spaces/JournalistsonHF/ai-toolkit",
     "description": "The Essential AI Toolkit for Journalists and Content Creators, All the tools listed here are free to use and open-source!",
