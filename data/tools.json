@@ -1752,12 +1752,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Sterra",
-    "url": "https://github.com/novitae/sterraxcyl",
-    "description": "Instagram OSINT tool to export and analyse followers | following with their details",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "Toutatis",
     "url": "https://github.com/megadose/toutatis",
     "description": "a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more",
@@ -1935,12 +1929,6 @@
     "name": "CCTV",
     "url": "https://github.com/IvanGlinkin/CCTV",
     "description": "Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Geogramint",
-    "url": "https://github.com/Alb-310/Geogramint",
-    "description": "An OSINT Geolocalization tool for Telegram that find nearby users and groups.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7092,12 +7080,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Belati",
-    "url": "https://github.com/aancw/Belati",
-    "description": "The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "BeVigil-CLI",
     "url": "https://github.com/Bevigil/BeVigil-OSINT-CLI",
     "description": "A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.",
@@ -7245,12 +7227,6 @@
     "name": "Photon",
     "url": "https://github.com/s0md3v/Photon",
     "description": "Crawler designed for OSINT",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Pown Recon",
-    "url": "https://github.com/pownjs/pown-recon",
-    "description": "Target reconnaissance framework powered by graph theory.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
