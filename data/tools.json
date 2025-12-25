@@ -132,6 +132,18 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Google Hacking Database (GHDB)",
+    "url": "https://www.exploit-db.com/google-hacking-database",
+    "description": "The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SearchDorks",
+    "url": "https://kriztalz.sh/search-dorks/",
+    "description": "Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Alleba (Philippines)",
     "url": "http://www.alleba.com",
     "description": "Philippines search engine",
@@ -336,12 +348,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Search Encrypt",
-    "url": "https://www.searchencrypt.com/home",
-    "description": "A search engine that uses local encryption to protect users’ search data.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "Startpage",
     "url": "https://www.startpage.com/",
     "description": "The world’s most private search engine.",
@@ -351,6 +357,42 @@
     "name": "swisscows",
     "url": "https://swisscows.com/en",
     "description": "Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "CredenShow",
+    "url": "https://credenshow.com/",
+    "description": "Identify your compromised credentials before others do.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "HIB Ransomed",
+    "url": "https://haveibeenransom.com/",
+    "description": "Because people have the right to know if their data has been leaked.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "HEROIC.NOW",
+    "url": "https://heroic.com/",
+    "description": "Has your data been leaked on the dark web? Scan your identities for FREE.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "IKnowYour.Dad",
+    "url": "https://iknowyour.dad/",
+    "description": "Data Breach Search Engine.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "StealSeek",
+    "url": "https://stealseek.io/",
+    "description": "Powerful search engine designed to help you find and analyze data breaches.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Venacus",
+    "url": "https://venacus.com/",
+    "description": "Search for your data breaches and get notified when your data is compromised.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -384,6 +426,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "BrightCloud",
+    "url": "https://brightcloud.com/tools/url-ip-lookup.php",
+    "description": "Checks the reputation, category, and potential threats associated with a URL or IP address.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Browserleaks",
     "url": "https://browserleaks.com/",
     "description": "BrowserLeaks tests your browser for privacy and fingerprinting leaks",
@@ -393,6 +441,12 @@
     "name": "Censys",
     "url": "https://search.censys.io/",
     "description": "Searcher that monitors and analyzes devices.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "CertKit Certificate Search",
+    "url": "https://www.certkit.io/tools/ct-logs/",
+    "description": "Fast search for public SSL/TLS certificate records.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -420,9 +474,15 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Fofa",
+    "name": "FOFA",
     "url": "https://en.fofa.info/",
     "description": "Asset search and analysis tool.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "FullHunt",
+    "url": "https://fullhunt.io/",
+    "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -438,9 +498,21 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "GreyNoise",
+    "url": "https://viz.greynoise.io/",
+    "description": "Search Exposed Internet assets, Malicious IP's.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Harmari (Unified Listings Search)",
     "url": "https://www.harmari.com/search/unified",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Hunter Search Engine",
+    "url": "https://hunter.how/",
+    "description": "Search Exposed Internet assets, open web directories and many more.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -546,6 +618,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "ZoomEye",
+    "url": "https://www.zoomeye.ai/",
+    "description": "ZoomEye is a cyberspace search engine for IPs, domains, internet asset discovery, and exposure analysis of servers, routers, and webcams.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Ahmia",
     "url": "https://ahmia.fi",
     "description": "",
@@ -609,18 +687,6 @@
     "name": "SlideShare",
     "url": "http://www.slideshare.net",
     "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Mine",
-    "url": "https://www.saymine.com/mineapp",
-    "description": "Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Yorba",
-    "url": "https://yorba.co/",
-    "description": "Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -1112,12 +1178,6 @@
   {
     "name": "paste.debian",
     "url": "https://Paste.debian.net",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "paste.ee",
-    "url": "https://Paste.ee",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -2022,6 +2082,336 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "AgentFNS_Bot",
+    "url": "https://t.me/AgentFNS_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "AVinfoBot",
+    "url": "https://t.me/AVskp_Bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "AvtoNomer",
+    "url": "https://t.me/avtonomerbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "avtogram_bot",
+    "url": "https://telegram.me/ABTOGRAMBOT",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "avtocodbot",
+    "url": "https://t.me/avtocodbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "bmi_np_bot",
+    "url": "https://t.me/MNProbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ChatSearchRobot",
+    "url": "https://t.me/ChatSearchRobot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ClerkBot",
+    "url": "https://t.me/clerksecretbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "creationdatebot",
+    "url": "https://t.me/creationdatebot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "CryptoBot",
+    "url": "https://t.me/CryptoBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "datXpert",
+    "url": "https://telegram.me/datxpertbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Detectiva",
+    "url": "http://detectiva.link/rezervBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Discord Sensor",
+    "url": "https://telegram.me/discordsensorbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "dCallsBot",
+    "url": "https://t.me/dCallsBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "EasyVIN",
+    "url": "https://t.me/EasyVINbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "egrul_bot",
+    "url": "https://t.me/egrul_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "EyeTON",
+    "url": "https://telegram.me/istoneyebot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "FindStickerCreator",
+    "url": "https://t.me/SPOwnerBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Фари",
+    "url": "https://telegram.me/faribybot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "GeoMacFinder",
+    "url": "https://t.me/geomacbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "getChatList",
+    "url": "https://telegram.me/getchatlistbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Getairplane",
+    "url": "https://telegram.me/getairplane_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "GetSendGifts",
+    "url": "https://telegram.me/GetSendGiftsProBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "HimeraSearch",
+    "url": "https://t.me/HimeraNeGBL8Pro1dp_Search_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Insight",
+    "url": "https://t.me/ibhld_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "InstaAnonym",
+    "url": "https://t.me/instaanonymbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "InstaBot",
+    "url": "https://telegram.me/InstaBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ITP Infotrack",
+    "url": "https://infotrackpeople.org/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Leak OSINT",
+    "url": "https://telegram.me/Leak_SSINTbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Maigret OSINT bot",
+    "url": "https://t.me/osint_maigret_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "mnp_bot",
+    "url": "https://t.me/mnp_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "MotherSearchBot",
+    "url": "https://t.me/MotherSearchBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "NEUROAUTOSEARCH",
+    "url": "https://t.me/noblackAuto_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "OkSearch",
+    "url": "https://telegram.me/OkSearchBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "OpenDataUABot",
+    "url": "https://t.me/OpenDataUABot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "OPENLOAD Bot",
+    "url": "https://t.me/OPENLOADTOPBOT",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Osintkit",
+    "url": "https://t.me/osintkit_check_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "PasswordSearch",
+    "url": "https://telegram.me/PasswordSearchBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "PimEyes",
+    "url": "https://telegram.me/pimeyesbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "RegDateBot",
+    "url": "https://t.me/regdate_clone_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SangMata (beta)",
+    "url": "https://t.me/SangMata_beta_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SangMataInfo_bot",
+    "url": "https://t.me/SangMataInfo_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SaveYoutubeBot",
+    "url": "https://t.me/SaveYoutubeBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Search_firm_bot",
+    "url": "https://t.me/Search_firm_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Searchforchats",
+    "url": "https://telegram.me/searchforchatsbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Sherlock",
+    "url": "https://t.me/Getcontact123qwerty_bot?start=_ref_jGW8Sa_iEmG9V",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "ShtrafKZBot",
+    "url": "https://t.me/ShtrafKZBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SMS Activate",
+    "url": "https://t.me/PrivatePhoneBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "SpyGGbot",
+    "url": "https://telegram.me/SpyGGbot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Surftg_bot",
+    "url": "https://t.me/surftg_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "TuriBot",
+    "url": "https://t.me/TuriBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Unamer",
+    "url": "https://telegram.me/unamer_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "username_to_id_bot",
+    "url": "https://t.me/username_to_id_bot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "UsInfoBot",
+    "url": "https://t.me/usinfobot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "WhoisDomBot",
+    "url": "https://t.me/WhoisDomBot",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "OSINT-Steam",
     "url": "https://osint-steam.vercel.app/en",
     "description": "An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.",
@@ -2031,6 +2421,18 @@
     "name": "github_monitor",
     "url": "https://github.com/misiektoja/github_monitor",
     "description": "Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "GithubRecon",
+    "url": "https://kriztalz.sh/github-recon/",
+    "description": "Lookup Github users by username or email and gather associated data.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Shotstars",
+    "url": "https://github.com/snooppr/shotstars",
+    "description": "An advanced tool for checking GitHub repositories, with star statistics, including fake star analysis and data visualization.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2193,6 +2595,12 @@
     "name": "Social Analyzer",
     "url": "https://github.com/qeeqbox/social-analyzer",
     "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "user-scanner",
+    "url": "https://github.com/kaifcodec/user-scanner.git",
+    "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -2388,6 +2796,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Surfface",
+    "url": "https://surfface.com",
+    "description": "Face search and people finder that links faces to social media profiles and other public data.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "The National Archives (UK)",
     "url": "http://www.nationalarchives.gov.uk",
     "description": "Search UK national archives.",
@@ -2568,12 +2982,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "Secureito",
-    "url": "https://www.secureito.com",
-    "description": "Secureito detects data breaches involving your email and suggests protection measures.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "SherlockEye",
     "url": "https://sherlockeye.io/",
     "description": "Search for publicly available data linked to an email address across multiple sources on the internet.",
@@ -2724,12 +3132,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "CanLaw",
-    "url": "http://www.canlaw.com",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "ExpertiseFinder",
     "url": "http://www.expertisefinder.com",
     "description": "",
@@ -2834,12 +3236,6 @@
   {
     "name": "SheSource",
     "url": "http://www.shesource.org",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Speakezee",
-    "url": "https://www.speakezee.org",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -3438,6 +3834,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "DomainRecon",
+    "url": "https://kriztalz.sh/domain-recon/",
+    "description": "Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Domain Tools",
     "url": "http://whois.domaintools.com",
     "description": "Whois lookup and domain/ip historical data.",
@@ -3495,6 +3897,12 @@
     "name": "HypeStat",
     "url": "https://www.hypestat.com",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Icann Lookup",
+    "url": "https://lookup.icann.org/en/lookup",
+    "description": "The site allows you to look up domain registration information (WHOIS) on the internet",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -3576,6 +3984,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Mark Monitor WHOIS",
+    "url": "https://whois-webform.markmonitor.com/whois/",
+    "description": "Displays domain registration information.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "MaxMind",
     "url": "https://www.maxmind.com",
     "description": "",
@@ -3621,6 +4035,12 @@
     "name": "Pulsedive",
     "url": "https://pulsedive.com",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Qualys SSL Check",
+    "url": "https://www.ssllabs.com/ssltest/",
+    "description": "SSL Test configuration compliance.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -3717,6 +4137,12 @@
     "name": "TinyScan",
     "url": "https://www.tiny-scan.com",
     "description": "Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "TracerouteVisualizer",
+    "url": "https://kriztalz.sh/traceroute-visualizer/",
+    "description": "An online tool that displays your mtr / traceroute / flyingroutes output on a map for visual analysis.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -4026,12 +4452,6 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "FaceSeek",
-    "url": "https://faceseek.online",
-    "description": "Online Face Search engine.",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "Flickr",
     "url": "https://flickr.com/search/",
     "description": "",
@@ -4107,6 +4527,12 @@
     "name": "Search4faces",
     "url": "https://search4faces.com/",
     "description": "a service for searching people on the Internet by photo.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Surfface",
+    "url": "https://surfface.com",
+    "description": "face search and people finder indexing social profiles and public images from social media and the web.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -4197,6 +4623,12 @@
     "name": "JPEGsnoop",
     "url": "https://sourceforge.net/projects/jpegsnoop",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Metadata Viewer",
+    "url": "https://kriztalz.sh/metadata-viewer/",
+    "description": "Online EXIF data viewer.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -4689,6 +5121,18 @@
     "name": "GeoGig",
     "url": "http://geogig.org",
     "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "GeoInfer",
+    "url": "https://geoinfer.com",
+    "description": "Image geolocation tool, no EXIF data required.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "GeoGuessr.ai",
+    "url": "https://geoguessr.ai",
+    "description": "AI-powered geolocation tool for identifying locations from images.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -5258,12 +5702,6 @@
   {
     "name": "Flipboard",
     "url": "https://flipboard.com",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Hubii",
-    "url": "http://hubii.com",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -7074,6 +7512,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "ArkhamMirror",
+    "url": "https://github.com/mantisfury/ArkhamMirror",
+    "description": "Local-first AI document intelligence with offline RAG, contradiction detection, knowledge graphs, and vision AI table extraction.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Barcode Reader",
     "url": "http://online-barcode-reader.inliteresearch.com",
     "description": "Decode barcodes in C#, VB, Java, C\\C++, Delphi, PHP and other languages.",
@@ -7125,6 +7569,12 @@
     "name": "DuckDuckGo URL scraper",
     "url": "https://github.com/its0x08/duckduckgo",
     "description": "A simple DuckDuckGo URL scraper.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "FaviconHash",
+    "url": "https://kriztalz.sh/favicon-hash/",
+    "description": "Generate favicon hashes of a website for use on Shodan, VirusTotal, Censys, ZoomEye or FOFA.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7182,6 +7632,12 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "Mozilla HTTP Observatory",
+    "url": "https://developer.mozilla.org/en-US/observatory",
+    "description": "Observatory⁩ enhances web security by analyzing compliance with best security practices.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "OpenRefine",
     "url": "https://github.com/OpenRefine",
     "description": "Free & open source power tool for working with messy data and improving it.",
@@ -7224,9 +7680,21 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "PGPKeyAnalyser",
+    "url": "https://kriztalz.sh/pgp-key-analyser/",
+    "description": "Analyse and view the details of a PGP key online without having to download the asc file.",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "Photon",
     "url": "https://github.com/s0md3v/Photon",
     "description": "Crawler designed for OSINT",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "Pyba",
+    "url": "https://github.com/fauvidoTechnologies/PyBrowserAutomation/",
+    "description": "A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7314,9 +7782,9 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "CTI Stuffs",
-    "url": "https://github.com/spmedia/CTI-Stuffs",
-    "description": "A collection of fresh intel scraped from various cybercrime sources & forums.",
+    "name": "Threat Actor Usernames Scrape",
+    "url": "https://github.com/spmedia/Threat-Actor-Usernames-Scrape",
+    "description": "A collection of fresh intel and threat actor usernames scraped from various cybercrime sources & forums.",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7356,9 +7824,9 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "steam_monitor",
-    "url": "https://github.com/misiektoja/steam_monitor",
-    "description": "Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more",
+    "name": "lol_monitor",
+    "url": "https://github.com/misiektoja/lol_monitor",
+    "description": "Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7368,15 +7836,21 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
+    "name": "steam_monitor",
+    "url": "https://github.com/misiektoja/steam_monitor",
+    "description": "Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
     "name": "xbox_monitor",
     "url": "https://github.com/misiektoja/xbox_monitor",
     "description": "Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "lol_monitor",
-    "url": "https://github.com/misiektoja/lol_monitor",
-    "description": "Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more",
+    "name": "lastfm_monitor",
+    "url": "https://github.com/misiektoja/lastfm_monitor",
+    "description": "Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7389,12 +7863,6 @@
     "name": "spotify_monitor",
     "url": "https://github.com/misiektoja/spotify_monitor",
     "description": "Tool for real-time tracking of Spotify friends' listening activity including detection when user gets online & offline, played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "lastfm_monitor",
-    "url": "https://github.com/misiektoja/lastfm_monitor",
-    "description": "Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
@@ -7434,20 +7902,20 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "NixIntel",
-    "url": "https://nixintel.info/",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "Social Links",
-    "url": "https://blog.sociallinks.io/",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
     "name": "eInvestigator",
     "url": "https://www.einvestigator.com/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "IntelTechniques",
+    "url": "https://inteltechniques.com/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "NixIntel",
+    "url": "https://nixintel.info/",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -7458,8 +7926,14 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "IntelTechniques",
-    "url": "https://inteltechniques.com/",
+    "name": "OSINT Ambition Publication",
+    "url": "https://publication.osintambition.org/",
+    "description": "",
+    "source_repo": "https://github.com/jivoi/awesome-osint"
+  },
+  {
+    "name": "OSINT Team",
+    "url": "https://www.osintteam.com/",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -7488,14 +7962,8 @@
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
   {
-    "name": "OSINT Ambition Publication",
-    "url": "https://publication.osintambition.org/",
-    "description": "",
-    "source_repo": "https://github.com/jivoi/awesome-osint"
-  },
-  {
-    "name": "OSINT Team",
-    "url": "https://www.osintteam.com/",
+    "name": "Social Links",
+    "url": "https://blog.sociallinks.io/",
     "description": "",
     "source_repo": "https://github.com/jivoi/awesome-osint"
   },
@@ -7809,6 +8277,12 @@
     "name": "RepoAnalyzer",
     "url": "https://repoanalyzer.site/",
     "description": "Discover authentic blockchain projects through comprehensive analysis of on-chain data, GitHub activity, and community engagement.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
+    "name": "Reverse Contact",
+    "url": "https://www.reversecontact.com/",
+    "description": "Find real-time contact and company data from an email address.",
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
@@ -8286,6 +8760,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "annas-archive",
+    "url": "https://annas-archive.li",
+    "description": "largest collection of variety books and blogs",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "billingcat",
     "url": "https://challenge.bellingcat.com/",
     "description": "[billingcat](https://challenge.bellingcat.com/)",
@@ -8601,6 +9081,12 @@
     "name": "Wiman",
     "url": "https://www.wiman.me/",
     "description": "Seamless connections to millions mobile Free WiFi hotspots.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
+    "name": "Dorkgpt",
+    "url": "https://www.dorkgpt.com/",
+    "description": "Generate google dork with AI.",
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
@@ -9990,6 +10476,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "namechk",
+    "url": "https://namechk.com/",
+    "description": "Check available username across 30 domain 90 social sites.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "Phantom Finder (iOS)",
     "url": "https://apps.apple.com/gb/app/phantom-finder-username-search/id6736408372",
     "description": "Mobile reverse username search with direct profile links.",
@@ -10062,9 +10554,9 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
-    "name": "Namechk",
-    "url": "https://namechk.com/",
-    "description": "With Namechk, you can check the availability of a username or domain name within seconds",
+    "name": "user-scanner",
+    "url": "https://github.com/kaifcodec/user-scanner",
+    "description": "Check a username's presence across popular dev/social/creator sites and games",
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
@@ -10410,6 +10902,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "sowsearch",
+    "url": "https://www.sowsearch.info/",
+    "description": "get facebook data by id and more",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "Facebook Search Engine",
     "url": "https://cse.google.com/cse?cx=95ae46262a5f2958e",
     "description": "",
@@ -10581,6 +11079,12 @@
     "name": "SocialData API",
     "url": "https://socialdata.tools/",
     "description": "SocialData is an unofficial Twitter API that allows scraping tweets, user profiles, lists and Twitter spaces without using Twitter's API.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
+    "name": "Filmot",
+    "url": "https://https://filmot.com/",
+    "description": "Search within YouTube subtitles, captions and transcripts.",
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
@@ -12216,6 +12720,12 @@
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
+    "name": "Flightera",
+    "url": "https://www.flightera.net/",
+    "description": "Flightera is one of the leading aviation tracker and flight data websites worldwide.",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
     "name": "FlightAirMap",
     "url": "https://www.flightairmap.com/",
     "description": "Real or virtual flights are displayed in real-time on a 2D or 3D map. Airports are also available on map. Statistics for pilots and/or owners are generated.",
@@ -12765,6 +13275,12 @@
     "name": "CRT",
     "url": "https://crt.sh/",
     "description": "certificate search",
+    "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
+  },
+  {
+    "name": "CertKit",
+    "url": "https://www.certkit.io/tools/ct-logs/",
+    "description": "Fast search for the Certificate Transparenc Logs",
     "source_repo": "https://github.com/Astrosp/Awesome-OSINT-For-Everything"
   },
   {
@@ -14976,6 +15492,12 @@
     "source_repo": "https://github.com/tracelabs/awesome-osint"
   },
   {
+    "name": "Forensic OSINT Full Page Screen Capture",
+    "url": "https://chromewebstore.google.com/detail/forensic-osint-full-page/jojaomahhndmeienhjihojidkddkahcn",
+    "description": "",
+    "source_repo": "https://github.com/tracelabs/awesome-osint"
+  },
+  {
     "name": "Instaloader",
     "url": "https://instaloader.github.io/",
     "description": "",
@@ -15091,7 +15613,7 @@
   },
   {
     "name": "Approx cloning time",
-    "url": "https://img.shields.io/badge/clone%20time-~%206m%2039s%20@50Mb/s-blue",
+    "url": "https://img.shields.io/badge/clone%20time-~%207m%2027s%20@50Mb/s-blue",
     "description": "",
     "source_repo": "https://github.com/danielmiessler/SecLists"
   },
